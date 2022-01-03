@@ -10,4 +10,15 @@ div{
     margin-top: 80px;
     margin-left: 100px;
     margin-right: 70px;
+    background-color: cyan;
+}
+h3{
+    color: darkorange;
+    background-color: darkturquoise;
+
+}
+p{
+    text-align: justify;
+    color: khaki;
+    background-color: lightcoral;
 }
